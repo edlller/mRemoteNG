@@ -1,4 +1,10 @@
-# Welcome to the mRemoteNG project!
+# Welcome to the mRemoteLE project!
+
+The mRemoteLE is a port of mRemoteNG for Linux users.
+
+The goal is to keep all existing funcionality and some importante enhancements like a centralized connections file based on Vault as a backend.
+
+Please see more information about Vaul at: https://www.vaultproject.io/
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mRemoteNG.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=mRemoteNG)
 [![Join the chat at https://gitter.im/mRemoteNG/PublicChat/](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mRemoteNG/PublicChat)
